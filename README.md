@@ -1,4 +1,4 @@
 # Fake-News-Classifier-Using-LSTM
 
-Fake News CLassifier
+<p>Fake News CLassifier</p>
 A system to identify unreliable news articles
